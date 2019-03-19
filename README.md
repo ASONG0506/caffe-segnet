@@ -1,4 +1,17 @@
 # Caffe SegNet
+
+这是segnet的caffe的repo，其网络的实现链接如下：https://github.com/alexgkendall/SegNet-Tutorial
+
+
+
+
+
+
+
+
+
+
+## 下面是原始的repo内容
 **This is a modified version of [Caffe](https://github.com/BVLC/caffe) which supports the [SegNet architecture](http://mi.eng.cam.ac.uk/projects/segnet/)**
 
 As described in **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation** Vijay Badrinarayanan, Alex Kendall and Roberto Cipolla, PAMI 2017 [http://arxiv.org/abs/1511.00561]
